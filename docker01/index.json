@@ -1,0 +1,26 @@
+{
+  "title": "Aprender a usar docker",
+  "description": "Aprender a usar docker via linea de comandos",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Primeros pasos",
+      "text": "step1.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mTerminal interactivo.\r\nSe pueden usar comandos linux en la consola, por ejm: `ls -la`\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "bash"
+  }
+}
