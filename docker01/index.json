@@ -5,7 +5,7 @@
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Primeros pasos",
+      "title": "El comando docker",
       "text": "step1.md"
     }],
     "intro": {
@@ -21,6 +21,6 @@
     "uimessage1": "\u001b[32mTerminal interactivo.\r\nSe pueden usar comandos linux en la consola, por ejm: `ls -la`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "docker"
   }
 }
