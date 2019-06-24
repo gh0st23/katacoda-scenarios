@@ -2,7 +2,7 @@ Bienvenido en el presente proyecto aprenderemos a usar `docker` utilizando la li
 En este proyecto aprenderemos:
 
 * El comando docker.
-* Imagenes.
+* Imagenes docker.
 * Ejecutar un servicio.
 * El comando docker-compose.
 * Redes.

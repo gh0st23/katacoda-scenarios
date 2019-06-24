@@ -7,6 +7,9 @@
     "steps": [{
       "title": "El comando docker",
       "text": "step1.md"
+    },{
+      "title": "Imagenes docker",
+      "text": "step2.md"
     }],
     "intro": {
       "text": "intro.md",
