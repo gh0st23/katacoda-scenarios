@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+Bienvenido en el presente proyecto aprenderemos a usar docker via linea de comandos.
