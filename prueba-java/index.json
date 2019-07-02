@@ -5,7 +5,8 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "step1.md",
+        "courseData": "setup.sh"
       },
       {
         "title": "Step 2",
@@ -27,6 +28,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "java9"
+    "imageid": "git"
   }
 }
