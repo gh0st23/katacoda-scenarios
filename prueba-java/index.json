@@ -6,7 +6,8 @@
       {
         "title": "Step 1",
         "text": "step1.md",
-        "courseData": "setup.sh"
+        "courseData": "step1-setup.sh",
+        "verify": "step1-verify.sh"
       },
       {
         "title": "Step 2",
