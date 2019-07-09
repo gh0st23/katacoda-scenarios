@@ -29,6 +29,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "git"
+    "imageid": "java8"
   }
 }
